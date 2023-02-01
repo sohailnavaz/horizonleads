@@ -1,0 +1,19 @@
+{
+  "projects": {
+    "default": "makuta-horizon"
+  },
+  "targets": {
+    "makuta-horizon": {
+      "hosting": {
+        "tr": [
+          "MakutaHorizon",
+          "makuta-horizon"
+        ],
+        "hr": [
+          "makutahorizon"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
